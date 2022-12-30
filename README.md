@@ -1,5 +1,5 @@
 **Yup, that's me. You're probably wondering how I got into this situation…**
 
-C#, Python, Rust, Java, Javascript
+💻 C#, Python, Rust, Java, Javascript
 
-Unity, ASP.NET, Flask, Maven, Discord & MC API, Office Macros (not proud of that)
+🧑‍💻 Unity, ASP.NET, Flask, Maven, Discord & MC API, Office Macros (not proud of that)
