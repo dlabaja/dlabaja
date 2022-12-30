@@ -3,3 +3,5 @@
 💻 C#, Python, Rust, Java, Javascript
 
 🧑‍💻 Unity, ASP.NET, Flask, Maven, Discord & MC API, Office Macros (not proud of that one)
+
+🙌 Programming since 2020
