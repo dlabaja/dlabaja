@@ -2,7 +2,7 @@
 
 💻 C#, Python, Rust, Java, Javascript
 
-🧑‍💻 Unity, Web, ASP.NET, Flask, Maven, Discord & MC API, Office Macros (not proud of that one) and more
+🧑‍💻 Unity, Web, ASP.NET, Flask, Maven, Discord & Bukkit API, Office Macros (not proud of that one) and more
 
 💾 Programming since 2020
 
