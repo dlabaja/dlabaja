@@ -4,7 +4,9 @@
 
 🧑‍💻 Unity, Web, ASP.NET, WinForms, WPF, Flask, Maven, Discord & Bukkit API, Office Macros and more
 
-💾 Programming since 2020
+💾 MongoDB, Firebird, SQLite
+
+⌨️ Programming since 2020
 
 💖 Linux > Windows, Firefox > MS Edge
 
