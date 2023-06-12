@@ -2,11 +2,11 @@
 
 💻 C#, Python, Rust, Java, Javascript
 
-🧑‍💻 Unity, Web, ASP.NET, WinForms, WPF, Flask, Maven, Discord & Bukkit API, Office Macros and more
+⚙️ Unity, Web, ASP.NET, WinForms, WPF, Flask, Maven, Discord & Bukkit API, Office Macros and more
 
 💾 MongoDB, Firebird, SQLite
 
-⌨️ Programming since 2020
+🕒 Programming since 2020
 
 💖 Linux > Windows, Firefox > MS Edge
 
