@@ -4,7 +4,7 @@
 
 ⚙️ Unity, Web, ASP.NET, WinForms, WPF, Flask, Maven, Discord & Bukkit API, Office Macros and more
 
-💾 MongoDB, Firebird, SQLite
+💾 MongoDB, Firebird, SQLite a jejich caching
 
 🕒 Programming since 2020
 
