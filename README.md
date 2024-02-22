@@ -1,6 +1,6 @@
 **Yup, that's me. You're probably wondering how I got into this situation…**
 
-💻 C#, Python, Rust, Java, Javascript
+💻 C#, WebDev, also tried Python, Java and Rust
 
 ⚙️ Web, ASP.NET, WPF, Gtk, Linux, Unity and more
 
