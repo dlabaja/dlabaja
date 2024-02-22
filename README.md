@@ -2,7 +2,7 @@
 
 💻 C#, Python, Rust, Java, Javascript
 
-⚙️ Unity, Web, ASP.NET, WinForms, WPF, Flask, Maven, Discord & Bukkit API, Office Macros and more
+⚙️ Web, ASP.NET, WPF, Gtk, Linux, Unity and more
 
 💾 MongoDB, Firebird, SQLite and their caching
 
